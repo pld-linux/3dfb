@@ -1,4 +1,4 @@
-Summary:	3D File Manager
+Summary:	3D file manager
 Summary(pl):	Trójwymiarowy zarz±dca plików
 Name:		3dfb
 Version:	0.5.5
@@ -15,7 +15,7 @@ BuildRequires:	libstdc++-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-3dFB is a 3d File Manager. 2d file managers work nicely, but with 3d
+3dFB is a 3d file manager. 2d file managers work nicely, but with 3d
 you can display much more information. The aim of this project is to
 make a viable, workable, 3d file manager that is not a hog on
 resources and can actually be usable.
