@@ -1,12 +1,12 @@
 Summary:	3D file manager
 Summary(pl):	Trójwymiarowy zarz±dca plików
 Name:		3dfb
-Version:	0.5.5
+Version:	0.6.1
 Release:	1
 License:	GPL
 Group:		Applications/Shells
 Source0:	http://dl.sourceforge.net/dz3d/%{name}-%{version}.tar.gz
-# Source0-md5:	31a11043c43f81c1a2f792b82934c1db
+# Source0-md5:	90f42a25f5fa4572faedcb00c20a8eb4
 URL:		https://sourceforge.net/projects/dz3d/
 BuildRequires:	autoconf
 BuildRequires:	automake
