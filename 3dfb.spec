@@ -7,7 +7,7 @@ License:	GPL
 Group:		Applications/Shells
 Source0:	http://dl.sourceforge.net/dz3d/%{name}-%{version}.tar.gz
 # Source0-md5:	90f42a25f5fa4572faedcb00c20a8eb4
-URL:		https://sourceforge.net/projects/dz3d/
+URL:		http://www.dangerz.net/3dfb/
 BuildRequires:	autoconf
 BuildRequires:	automake
 BuildRequires:	glut-devel
