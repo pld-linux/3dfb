@@ -1,5 +1,5 @@
 Summary:	3D file manager
-Summary(pl):	Trójwymiarowy zarz±dca plików
+Summary(pl.UTF-8):   TrÃ³jwymiarowy zarzÄ…dca plikÃ³w
 Name:		3dfb
 Version:	0.6.1
 Release:	1
@@ -20,12 +20,12 @@ you can display much more information. The aim of this project is to
 make a viable, workable, 3d file manager that is not a hog on
 resources and can actually be usable.
 
-%description -l pl
-3dFB jest trójwymiarowym zarz±dc± plików. Dwuwymiarowi zarz±dcy
-dzia³aj± dobrze, ale w 3 wymiarach mo¿na wy¶wietliæ o wiele wiêcej
-informacji. Celem tego projektu jest stworzenie u¿ytecznego,
-trójwymiarowego zarz±dcy plików który nie zabiera zbyt wiele zasobów
-oraz mo¿e byæ u¿yteczny.
+%description -l pl.UTF-8
+3dFB jest trÃ³jwymiarowym zarzÄ…dcÄ… plikÃ³w. Dwuwymiarowi zarzÄ…dcy
+dziaÅ‚ajÄ… dobrze, ale w 3 wymiarach moÅ¼na wyÅ›wietliÄ‡ o wiele wiÄ™cej
+informacji. Celem tego projektu jest stworzenie uÅ¼ytecznego,
+trÃ³jwymiarowego zarzÄ…dcy plikÃ³w ktÃ³ry nie zabiera zbyt wiele zasobÃ³w
+oraz moÅ¼e byÄ‡ uÅ¼yteczny.
 
 %prep
 %setup -q
