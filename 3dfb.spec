@@ -1,5 +1,5 @@
 Summary:	3D file manager
-Summary(pl.UTF-8):   Trójwymiarowy zarządca plików
+Summary(pl.UTF-8):	Trójwymiarowy zarządca plików
 Name:		3dfb
 Version:	0.6.1
 Release:	1
